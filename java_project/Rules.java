@@ -12,7 +12,7 @@ public class Rules extends JFrame implements ActionListener {
         setLayout(null);
         
         // Background Image
-        ImageIcon i1 = new ImageIcon("C:\\Users\\Ananya Thakur\\OneDrive\\Desktop\\mca\\java_project\\rulesp.png");
+        ImageIcon i1 = new ImageIcon("rulesp.png");
         JLabel image = new JLabel(i1);
         image.setBounds(0, 0, 1000,700);
         add(image);
